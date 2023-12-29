@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gRg1U0MKGB+LB5knmR6UggJCws3JKqWG+YE5TzMsefo=",
+  "Source": "INEGI.Censo.Api",
+  "BasePath": "_content/INEGI.Censo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

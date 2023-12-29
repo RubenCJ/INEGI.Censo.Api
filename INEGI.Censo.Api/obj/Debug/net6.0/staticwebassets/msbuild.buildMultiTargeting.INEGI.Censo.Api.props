@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\INEGI.Censo.Api.props" />
+</Project>
